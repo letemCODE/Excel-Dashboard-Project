@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard
+# Excel Customer Care Centre Dashboard
 
 ## 1. Project Overview
 This dashboard provides highly informative insights into a Customer Care Centre's sales performance by analyzing sales data across multiple regions, representatives and periods of time.  
