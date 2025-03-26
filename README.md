@@ -21,7 +21,7 @@ It provides a simple, interactive, and intuitive layout to aid stakeholders trac
   Displays insightful KPIs like: % of Calls, Amount Rank, Call Rank.  
   These add crucial context while gauging performance.
 
-- **Customer Centre Report**
+- **Report**
   Contains the Dashboard displaying the various charts visualising key performance metrics that update in responce to the slicer.  
 
 ## 3. Installation
